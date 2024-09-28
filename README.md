@@ -8,4 +8,6 @@ Metadata and compressed images stored on-chain, additionally the original photos
 
 # More information
 
-https://ateev.art/en https://t.me/ateev_kirill
+https://ateev.art/en
+
+https://t.me/ateev_kirill
