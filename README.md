@@ -1,4 +1,4 @@
-# Application for generating the Life is an illusion Ethereum NFT collection
+# Application for generating the "Life is an illusion" Ethereum NFT collection
 
 https://rarible.com/life-is-an-illusion
 
